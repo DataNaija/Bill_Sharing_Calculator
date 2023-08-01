@@ -1,7 +1,4 @@
-# Business Requirement
-### Create a program called TIP CALCULATOR
-### It should ask for  total bill, number of people paying the bill, percentage contribution
-### by each people and generate the amount to be pay by each.
+
 
 print(" WELCOME TO THE TIP CALCULATOR")
 
